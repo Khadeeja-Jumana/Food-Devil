@@ -1,19 +1,51 @@
-# Food Devil — Level 01 MVP
+# 🍓 Food Devil
 
-A single-level HTML/CSS/JavaScript pixel-art platformer for the TinkerHub food-themed hackathon.
+### Get the snacks. Survive the burger. Trust nothing.
 
-## Run it
-1. Keep `index.html`, `styles.css`, and `game.js` in the same folder.
-2. Open the folder in VS Code.
-3. Open `index.html` with the Live Server extension, or open it directly in a modern browser.
+Welcome to **Food Devil**, a rage-bait platformer where everything looks friendly until you actually start playing. Collect every snack, dodge sneaky obstacles, and make your way to the Devil Burger!
 
-## Controls
-- Move: Left/Right arrows or A/D
-- Jump: Space, Up arrow, or W
-- Restart: R or the Restart level button
-- On mobile: use the on-screen controls
+Think it's easy? Good luck. 😈
 
-## Level 01
-Collect all five snacks and reach the Devil Burger. The fake cookie bridge disappears when the player gets close. The gap can be cleared with a well-timed jump. Food resets after a fall; deaths raise the rage meter and change the narrator's comments.
+## 🎮 Play the Game
 
-This MVP uses rule-based behavior hints (rushing, repeated jumping, waiting), not a machine-learning model.
+**[▶️ Play Food Devil Online](https://khadeeja-jumana.github.io/Food-Devil/)**
+
+No installation required. Open the link and play in your browser.
+
+## 🕹️ How to Play
+
+- **Move left and right:** Use the arrow keys.
+- **Jump:** Use the jump key shown in the game.
+- **Collect snacks:** Gather every snack along the way.
+- **Avoid obstacles:** Watch out for tricky platforms and unexpected traps.
+- **Reach the goal:** Survive the level and make it to the Devil Burger!
+
+## 💀 What to Expect
+
+- A food-themed platforming adventure
+- Tricky obstacles and unexpected surprises
+- Rage-bait challenges that test your timing
+- Funny moments, frustrating fails, and retries
+
+## 🛠️ Built With
+
+- HTML
+- CSS
+- JavaScript
+- HTML5 Canvas
+
+## 🚀 Run Locally
+
+1. Download or clone this repository.
+2. Keep `index.html`, `game.js`, and `styles.css` together in the same folder.
+3. Open `index.html` in your browser.
+
+If the game uses additional assets, keep those files in their required locations.
+
+## 👩‍💻 Creator
+
+Made with code, creativity, and a little bit of evil. ❤️‍🔥
+
+---
+
+**Can you beat Food Devil without losing your patience?**
