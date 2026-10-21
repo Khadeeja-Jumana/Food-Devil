@@ -48,4 +48,4 @@ Made with code, creativity, and a little bit of evil. ❤️‍🔥
 
 ---
 
-**Can you beat Food Devil without losing your patience...?**
+**Can you beat Food Devil without losing your patience?**
